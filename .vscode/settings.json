@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/danielder/opt/anaconda3/envs/scrabble_tools_backend/bin/python",
+    "python.formatting.provider": "autopep8"
+}
